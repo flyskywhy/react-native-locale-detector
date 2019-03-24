@@ -1,5 +1,5 @@
 {
-  "name": "react-native-locale-detector",
+  "name": "@orda/react-native-locale-detector",
   "version": "1.0.0",
   "description": "Detects the locale of a user's phone.",
   "keywords": [
