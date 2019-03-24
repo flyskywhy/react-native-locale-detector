@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform       = :ios, '9.0'
 
   s.preserve_paths = 'LICENSE', 'README.md'
-  s.source_files   = 'ios/RNI18n/**/*.{h,m}'
+  s.source_files   = 'RNI18n/**/*.{h,m}'
 
   s.dependency 'React'
 end
