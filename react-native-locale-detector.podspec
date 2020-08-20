@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.summary        = package['description']
   s.license        = package['license']
   s.author         = package['author']
-  s.homepage       = 'https://github.com/orda/react-native-locale-detector'
-  s.source         = { :git => 'https://github.com/orda/react-native-locale-detector.git', :tag => s.version }
+  s.homepage       = package['homepage']
+  s.source         = { :git => 'https://github.com/flyskywhy/react-native-locale-detector.git', :tag => s.version }
 
   s.requires_arc   = true
   s.platform       = :ios, '9.0'

@@ -1,6 +1,6 @@
 {
-  "name": "@orda/react-native-locale-detector",
-  "version": "1.0.4",
+  "name": "@flyskywhy/react-native-locale-detector",
+  "version": "1.0.5",
   "description": "Detects the locale of a user's phone.",
   "keywords": [
     "android",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
-  "repository": "DylanVann/react-native-locale-detector"
+  "homepage": "https://github.com/flyskywhy/react-native-locale-detector#readme",
+  "repository": "flyskywhy/react-native-locale-detector"
 }

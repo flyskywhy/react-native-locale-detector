@@ -6,7 +6,11 @@ Based on [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i1
 ## Installation
 
 ```
-npm install react-native-locale-detector --save
+npm install @flyskywhy/react-native-locale-detector --save
+```
+
+For RN < 0.60
+```
 react-native link
 ```
 
@@ -14,7 +18,7 @@ react-native link
 
 ```javascript
 // Import the locale.
-import locale from 'react-native-locale-detector'
+import locale from '@flyskywhy/react-native-locale-detector'
 
 // We could log it. Maybe it's en-US...
 console.log(locale)
